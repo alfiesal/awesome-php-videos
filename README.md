@@ -39,6 +39,8 @@ A list of interesting conference talks and great videos about PHP(Frameworks, Te
 ## Performance and Scalability
 * 🇬🇧 [Profiling PHP Applications](https://www.youtube.com/watch?v=4TbxHDSDkiw) - Bastian Hofmann(PHP UK Conference 2014) - `[1:03:44]` 
 
+* 🇵🇱 [PHP profiling with XHProf](https://www.youtube.com/watch?v=wqLnNBn94AA) - Tomasz Muras(Szczecin PHP Meetup) - `[24:32]` 
+
 ## Deployment
 
 ## Testing
