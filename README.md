@@ -4,6 +4,7 @@ A list of interesting conference talks and great videos about PHP(Frameworks, Te
 ## Contents
 
 + [General](#general)
++ [Event Storming](event-storming)
 + [Architecture and Design](#architecture-and-design)
     - [Domain Driven Design](#domain-driven-design)
     - [Hexagonal Architecture](#hexagonal-architecture)
@@ -23,20 +24,43 @@ A list of interesting conference talks and great videos about PHP(Frameworks, Te
 + [API](#api)
     - [REST](#rest)
     - [GraphQL](#graphQL)
++ [Microservices](#microservices)
+
     
 ## General
-#### Domain Driven Design
-#### Hexagonal Architecture
-#### Event Sourcing
-#### SOLID
+
+## Event Storming
+
+* 🇬🇧 [Event Storming](https://www.youtube.com/watch?v=veTVAN0oEkQ) - Alberto Brandolini(wroc_love.rb 2015) - `[50:38]` 
+* 🇬🇧 [The Precision Blade](https://www.youtube.com/watch?v=lG46Yo_9DPc) - Alberto Brandolini(Domain-Driven Design Europe) - `[50:32]` 
+* 🇬🇧 [50.000 orange stickies later](https://www.youtube.com/watch?v=cG-G6tNCGqY) - Alberto Brandolini(KanDDDinsky 2017) - `[1:04:16]` 
+
+* 🇵🇱 [Discovering unknown domain with Event Storming](https://www.youtube.com/watch?v=dhoXYRqghws) - Mariusz Gil(Boiling Frogs 2018) - `[48:55]` 
 
 ## Architecture and design
 
+* 🇫🇷 [CQRS, Fonctionnel, Event Sourcing & Domain Driven Design](https://www.youtube.com/watch?v=qBLtZN3p3FU) - Arnaud Lemaire(AFUP PHP) - `[40:23]` 
+
+#### Domain Driven Design
+#### Hexagonal Architecture
+
+* 🇬🇧 [Hexagonal architecture](https://www.youtube.com/watch?v=fgQWnglnGeU) - Matthias Noback(SymfonyLive London 2015) - `[41:57]`
+* 🇬🇧 [Hexagonal Architecture, Message-Oriented Software Design](https://www.youtube.com/watch?v=K1EJBmwg9EQ) - Matthias Noback(PHP Barcelona Conference 15) - `[53:20]` 
+
+#### Event Sourcing
+
+* 🇵🇱 [Modelowanie złożonych procesów biznesowych i czasu z użyciem wzorca Sagi](https://www.youtube.com/watch?v=MXI8ET5DhOI) - Mariusz Gil(PHPers) - `[45:44]`
+
+#### SOLID
+
 ## Design Patterns
+
+* 🇬🇧 [Beyond design patterns and principles - writing good OO code - Matthias Noback - Forum PHP 2018](https://www.youtube.com/watch?v=v3IPU3F_0JI) - Matthias Noback(AFUP PHP) - `[40:37]`
 
 ## Security
 
 ## Performance and Scalability
+
 * 🇬🇧 [Profiling PHP Applications](https://www.youtube.com/watch?v=4TbxHDSDkiw) - Bastian Hofmann(PHP UK Conference 2014) - `[1:03:44]` 
 
 * 🇵🇱 [PHP profiling with XHProf](https://www.youtube.com/watch?v=wqLnNBn94AA) - Tomasz Muras(Szczecin PHP Meetup) - `[24:32]` 
@@ -44,6 +68,8 @@ A list of interesting conference talks and great videos about PHP(Frameworks, Te
 ## Deployment
 
 ## Testing
+
+* 🇬🇧 [Design how your objects talk to each other through mocking](https://www.youtube.com/watch?v=AHizK2kpukk) - Konstantin Kudryashov(AFUP PHP) - `[47:06]` 
 
 ## Frameworks
 #### Symfony    
@@ -54,3 +80,7 @@ A list of interesting conference talks and great videos about PHP(Frameworks, Te
 ## APIs
 #### REST
 #### GraphQL
+
+## Microservices
+
+* 🇫🇷 [Un monolithe microservices ready](https://www.youtube.com/watch?v=F8C_iPGhHoI) - Arnaud Lemaire(BreizhCamp) - `[50:36]` 
