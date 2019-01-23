@@ -57,7 +57,7 @@ A list of interesting conference talks and great videos about PHP(Frameworks, Te
 ## Design Patterns
 
 * 🇬🇧 [Beyond design patterns and principles - writing good OO code - Matthias Noback - Forum PHP 2018](https://www.youtube.com/watch?v=v3IPU3F_0JI) - Matthias Noback(AFUP PHP) - `[40:37]`
-* 🇬🇧 [Beyond design patterns and principles - writing good OO code - Matthias Noback - Forum PHP 2018](https://www.youtube.com/watch?v=syCpDX4I8H8) - Matthias Noback(AFUP PHP) - `[40:37]`
+* 🇬🇧 [Command and (e)mission Control](https://www.youtube.com/watch?v=syCpDX4I8H8) - Barney Hanlon(PHP UK Conference 2018) - `[41:01]`
 
 ## Security
 
