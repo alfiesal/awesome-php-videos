@@ -25,6 +25,7 @@ A list of interesting conference talks and great videos about PHP(Frameworks, Te
     - [REST](#rest)
     - [GraphQL](#graphQL)
 + [Microservices](#microservices)
++ [Docker and Kubernetes](#docker-and-kubernetes)
 
     
 ## General
@@ -45,7 +46,7 @@ A list of interesting conference talks and great videos about PHP(Frameworks, Te
 #### Hexagonal Architecture
 
 * 🇬🇧 [Hexagonal architecture](https://www.youtube.com/watch?v=fgQWnglnGeU) - Matthias Noback(SymfonyLive London 2015) - `[41:57]`
-* 🇬🇧 [Hexagonal Architecture, Message-Oriented Software Design](https://www.youtube.com/watch?v=K1EJBmwg9EQ) - Matthias Noback(PHP Barcelona Conference 15) - `[53:20]` 
+* 🇬🇧 [Command and (e)mission Control](https://www.youtube.com/watch?v=K1EJBmwg9EQ) - Barney Hanlon(PHP UK Conference 2018) - `[41:01]` 
 
 #### Event Sourcing
 
@@ -56,12 +57,14 @@ A list of interesting conference talks and great videos about PHP(Frameworks, Te
 ## Design Patterns
 
 * 🇬🇧 [Beyond design patterns and principles - writing good OO code - Matthias Noback - Forum PHP 2018](https://www.youtube.com/watch?v=v3IPU3F_0JI) - Matthias Noback(AFUP PHP) - `[40:37]`
+* 🇬🇧 [Beyond design patterns and principles - writing good OO code - Matthias Noback - Forum PHP 2018](https://www.youtube.com/watch?v=syCpDX4I8H8) - Matthias Noback(AFUP PHP) - `[40:37]`
 
 ## Security
 
 ## Performance and Scalability
 
 * 🇬🇧 [Profiling PHP Applications](https://www.youtube.com/watch?v=4TbxHDSDkiw) - Bastian Hofmann(PHP UK Conference 2014) - `[1:03:44]` 
+* 🇬🇧 [How Doctrine Caching Can Skyrocket Your Application](https://www.youtube.com/watch?v=PzrbkRZEdHA) - Jachim Coudenys(PHP UK Conference 2018) - `[53:19]` 
 
 * 🇵🇱 [PHP profiling with XHProf](https://www.youtube.com/watch?v=wqLnNBn94AA) - Tomasz Muras(Szczecin PHP Meetup) - `[24:32]` 
 
@@ -70,6 +73,10 @@ A list of interesting conference talks and great videos about PHP(Frameworks, Te
 ## Testing
 
 * 🇬🇧 [Design how your objects talk to each other through mocking](https://www.youtube.com/watch?v=AHizK2kpukk) - Konstantin Kudryashov(AFUP PHP) - `[47:06]` 
+
+#### TDD
+#### BDD
+* 🇬🇧 [Behaviour Driven Development and Behat: Telling Stories Through Code](https://www.youtube.com/watch?v=bCLlBgYQoIk) - Matt Brunt(PHP UK 2018) - `[45:20]`
 
 ## Frameworks
 #### Symfony    
@@ -84,3 +91,7 @@ A list of interesting conference talks and great videos about PHP(Frameworks, Te
 ## Microservices
 
 * 🇫🇷 [Un monolithe microservices ready](https://www.youtube.com/watch?v=F8C_iPGhHoI) - Arnaud Lemaire(BreizhCamp) - `[50:36]` 
+
+## Docker and Kubernetes
+
+* 🇬🇧 [Getting started with Kubernetes](https://www.youtube.com/watch?v=bXRmFfuyxQ0) - Bastian Hofmann(PHP UK Conference 2018) - `[47:06]`
