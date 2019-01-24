@@ -26,9 +26,11 @@ A list of interesting conference talks and great videos about PHP(Frameworks, Te
     - [GraphQL](#graphQL)
 + [Microservices](#microservices)
 + [Docker and Kubernetes](#docker-and-kubernetes)
-
++ [Tools](#tools)
+    - [Elasticsearch](#elasticsearch)
     
 ## General
+* 🇬🇧 [Advanced GIT for Developers](https://www.youtube.com/watch?v=duqBHik7nRo) - Lorna Jane Mitchell(Laracon EU 2015) - `[1:00:46]` 
 
 ## Event Storming
 
@@ -58,6 +60,7 @@ A list of interesting conference talks and great videos about PHP(Frameworks, Te
 
 * 🇬🇧 [Beyond design patterns and principles - writing good OO code](https://www.youtube.com/watch?v=v3IPU3F_0JI) - Matthias Noback(AFUP PHP) - `[40:37]`
 * 🇬🇧 [Command and (e)mission Control](https://www.youtube.com/watch?v=syCpDX4I8H8) - Barney Hanlon(PHP UK Conference 2018) - `[41:01]`
+* 🇬🇧 [Beyond Design Patterns](https://www.youtube.com/watch?v=dawFyaWvFg4) - Anthony Ferrara(PHP Barcelona) - `[27:57]`
 
 ## Security
 
@@ -80,7 +83,12 @@ A list of interesting conference talks and great videos about PHP(Frameworks, Te
 
 ## Frameworks
 #### Symfony    
+* 🇬🇧 [Symfony Cache: a premium recipe to fast apps](https://www.youtube.com/watch?v=WTpvijWe4Cw) - Nicolas Grekas(SymfonyLive London 2018) - `[42:01]`
+* 🇬🇧 [Building first-class REST APIs with Symfony](https://www.youtube.com/watch?v=De9JsDQ7vgs) - Michael Cullum(SymfonyLive London 2018) - `[40:55]`
+* 🇬🇧 [Legacy to Symfony](https://www.youtube.com/watch?v=WbBf4p4FcqA) - Sebastian Grodzicki(SymfonyLive London 2017) - `[37:04]`
 #### Laravel    
+* 🇬🇧 [Migrating a 15 Year Old Enterprise Application to Laravel](https://www.youtube.com/watch?v=QdSXj6Pm5K0) - Taylor Dondich(Laracon EU) - `[47:56]`
+* 🇬🇧 [Decoupling the Model from the Framework](https://www.youtube.com/watch?v=QaIGN_cTcc8) - Mathias Verraes(Laracon EU) - `[47:56]`
 
 ## Others
 
@@ -95,3 +103,9 @@ A list of interesting conference talks and great videos about PHP(Frameworks, Te
 ## Docker and Kubernetes
 
 * 🇬🇧 [Getting started with Kubernetes](https://www.youtube.com/watch?v=bXRmFfuyxQ0) - Bastian Hofmann(PHP UK Conference 2018) - `[47:06]`
+
+
+## Tools
+
+#### Elasticsearch
+* 🇬🇧 [Discovering ElasticSearch](https://www.youtube.com/watch?v=waTWeJeFp4A) - Bastian Hofmann(Laracon EU) - `[51:57]`
