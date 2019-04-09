@@ -30,6 +30,7 @@ A list of interesting conference talks and great videos about PHP(Frameworks, Te
     - [Elasticsearch](#elasticsearch)
     
 ## General
+
 * 🇬🇧 [Advanced GIT for Developers](https://www.youtube.com/watch?v=duqBHik7nRo) - Lorna Jane Mitchell(Laracon EU 2015) - `[1:00:46]` 
 
 ## Event Storming
@@ -45,16 +46,24 @@ A list of interesting conference talks and great videos about PHP(Frameworks, Te
 * 🇫🇷 [CQRS, Fonctionnel, Event Sourcing & Domain Driven Design](https://www.youtube.com/watch?v=qBLtZN3p3FU) - Arnaud Lemaire(AFUP PHP) - `[40:23]` 
 
 #### Domain Driven Design
+
+* 🇬🇧 [Unbreakable Domain Models](https://www.youtube.com/watch?v=fgQWnglnGeU) - Mathias Verraes(PHP UK Conference 2014) - `[1:03:25]`
+
 #### Hexagonal Architecture
 
 * 🇬🇧 [Hexagonal architecture](https://www.youtube.com/watch?v=fgQWnglnGeU) - Matthias Noback(SymfonyLive London 2015) - `[41:57]`
 * 🇬🇧 [Command and (e)mission Control](https://www.youtube.com/watch?v=K1EJBmwg9EQ) - Barney Hanlon(PHP UK Conference 2018) - `[41:01]` 
+* 🇬🇧 [Hexagonal Architecture](https://www.youtube.com/watch?v=6SBjKOwVq0o) - Chris Fidao(Laracon 2014) - `[38:46]` 
 
 #### Event Sourcing
+
+* 🇬🇧 [Practical Event Sourcing](https://vimeo.com/104095245) - Mathias Verraes(phpDay 2014) - `[43:38]`
 
 * 🇵🇱 [Modelowanie złożonych procesów biznesowych i czasu z użyciem wzorca Sagi](https://www.youtube.com/watch?v=MXI8ET5DhOI) - Mariusz Gil(PHPers) - `[45:44]`
 
 #### SOLID
+
+* 🇬🇧 [From Good To SOLID: How to Become a Better PHP Developer?](https://www.youtube.com/watch?v=ILFcofVJUF4) - Katerina Trajchevska(PHP UK 2019) - `[33:41]`
 
 ## Design Patterns
 
@@ -67,7 +76,11 @@ A list of interesting conference talks and great videos about PHP(Frameworks, Te
 ## Performance and Scalability
 
 * 🇬🇧 [Profiling PHP Applications](https://www.youtube.com/watch?v=4TbxHDSDkiw) - Bastian Hofmann(PHP UK Conference 2014) - `[1:03:44]` 
+* 🇬🇧 [Elastic scaling in a (micro)service oriented architecture](https://www.youtube.com/watch?v=YBDscJhz2S0) - Bastian Hofmann(PHP UK Conference 2016) - `[1:02:24]` 
 * 🇬🇧 [How Doctrine Caching Can Skyrocket Your Application](https://www.youtube.com/watch?v=PzrbkRZEdHA) - Jachim Coudenys(PHP UK Conference 2018) - `[53:19]` 
+* 🇬🇧 [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) - Martin Fowler(GOTO 2014) - `[26:25]` 
+
+GOTO 2014 •  • 
 
 * 🇵🇱 [PHP profiling with XHProf](https://www.youtube.com/watch?v=wqLnNBn94AA) - Tomasz Muras(Szczecin PHP Meetup) - `[24:32]` 
 
@@ -83,10 +96,12 @@ A list of interesting conference talks and great videos about PHP(Frameworks, Te
 
 ## Frameworks
 #### Symfony    
+
 * 🇬🇧 [Symfony Cache: a premium recipe to fast apps](https://www.youtube.com/watch?v=WTpvijWe4Cw) - Nicolas Grekas(SymfonyLive London 2018) - `[42:01]`
 * 🇬🇧 [Building first-class REST APIs with Symfony](https://www.youtube.com/watch?v=De9JsDQ7vgs) - Michael Cullum(SymfonyLive London 2018) - `[40:55]`
 * 🇬🇧 [Legacy to Symfony](https://www.youtube.com/watch?v=WbBf4p4FcqA) - Sebastian Grodzicki(SymfonyLive London 2017) - `[37:04]`
-#### Laravel    
+#### Laravel  
+  
 * 🇬🇧 [Migrating a 15 Year Old Enterprise Application to Laravel](https://www.youtube.com/watch?v=QdSXj6Pm5K0) - Taylor Dondich(Laracon EU) - `[47:56]`
 * 🇬🇧 [Decoupling the Model from the Framework](https://www.youtube.com/watch?v=QaIGN_cTcc8) - Mathias Verraes(Laracon EU) - `[47:56]`
 
@@ -99,6 +114,7 @@ A list of interesting conference talks and great videos about PHP(Frameworks, Te
 ## Microservices
 
 * 🇫🇷 [Un monolithe microservices ready](https://www.youtube.com/watch?v=F8C_iPGhHoI) - Arnaud Lemaire(BreizhCamp) - `[50:36]` 
+* 🇬🇧 [Microservices Gone Wrong](https://www.youtube.com/watch?v=5QIpzNPVDaY) -  Anthony Ferrara(PHP UK Conference 2019) - `[1:00:55]` 
 
 ## Docker and Kubernetes
 
@@ -108,4 +124,5 @@ A list of interesting conference talks and great videos about PHP(Frameworks, Te
 ## Tools
 
 #### Elasticsearch
+
 * 🇬🇧 [Discovering ElasticSearch](https://www.youtube.com/watch?v=waTWeJeFp4A) - Bastian Hofmann(Laracon EU) - `[51:57]`
