@@ -32,6 +32,7 @@ A list of interesting conference talks and great videos about PHP(Frameworks, Te
 ## General
 
 * 🇬🇧 [Advanced GIT for Developers](https://www.youtube.com/watch?v=duqBHik7nRo) - Lorna Jane Mitchell(Laracon EU 2015) - `[1:00:46]` 
+* 🇬🇧 [The How’s and Why’s of a Clean Git History](https://www.youtube.com/watch?v=3zKcHrnlRpk) - Petr Heinz(SymfonyLive Berlin 2018) - `[45:36]` 
 
 ## Event Storming
 
@@ -44,6 +45,7 @@ A list of interesting conference talks and great videos about PHP(Frameworks, Te
 ## Architecture and design
 
 * 🇫🇷 [CQRS, Fonctionnel, Event Sourcing & Domain Driven Design](https://www.youtube.com/watch?v=qBLtZN3p3FU) - Arnaud Lemaire(AFUP PHP) - `[40:23]` 
+* 🇬🇧 [CQRS and Event Sourcing explained](https://www.youtube.com/watch?v=p6mKCnS2iHM) - Stefan Priebsch(IPC Spring 2018) - `[48:35]` 
 
 #### Domain Driven Design
 
@@ -80,8 +82,6 @@ A list of interesting conference talks and great videos about PHP(Frameworks, Te
 * 🇬🇧 [How Doctrine Caching Can Skyrocket Your Application](https://www.youtube.com/watch?v=PzrbkRZEdHA) - Jachim Coudenys(PHP UK Conference 2018) - `[53:19]` 
 * 🇬🇧 [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) - Martin Fowler(GOTO 2014) - `[26:25]` 
 
-GOTO 2014 •  • 
-
 * 🇵🇱 [PHP profiling with XHProf](https://www.youtube.com/watch?v=wqLnNBn94AA) - Tomasz Muras(Szczecin PHP Meetup) - `[24:32]` 
 
 ## Deployment
@@ -115,6 +115,7 @@ GOTO 2014 •  •
 
 * 🇫🇷 [Un monolithe microservices ready](https://www.youtube.com/watch?v=F8C_iPGhHoI) - Arnaud Lemaire(BreizhCamp) - `[50:36]` 
 * 🇬🇧 [Microservices Gone Wrong](https://www.youtube.com/watch?v=5QIpzNPVDaY) -  Anthony Ferrara(PHP UK Conference 2019) - `[1:00:55]` 
+* 🇬🇧 [Go micro with Microservices](https://www.youtube.com/watch?v=tewgo5zrHXA) -  Mariusz Gil(IPC Spring 2017) - `[42:31]` 
 
 ## Docker and Kubernetes
 
@@ -122,6 +123,9 @@ GOTO 2014 •  •
 
 
 ## Tools
+
+* 🇬🇧 [Optimizing nginx – from Beginner to Expert to Crazy](https://www.youtube.com/watch?v=I5JGcvvAKjs) - Arne Blankerts(IPC Spring 2018) - `[47:19]`
+* 🇬🇧 [Queues with RabbitMQ](https://www.youtube.com/watch?v=JnatrDD1E3E) - Lorna Mitchell(IPC 2017) - `[1:00:41]`
 
 #### Elasticsearch
 
