@@ -51,36 +51,30 @@ A list of interesting conference talks and great videos about PHP(Frameworks, Te
 * 🇬🇧 [CQRS and Event Sourcing explained](https://www.youtube.com/watch?v=p6mKCnS2iHM) - Stefan Priebsch(IPC Spring 2018) - `[48:35]` 
 
 * 🇬🇧 [P&A + DDD + CQRS = 00](https://www.youtube.com/watch?v=yhYFL4ujYqY) - Łukasz Szydło(IPC Spring 2018) - `[45:36]`
+* 🇬🇧 [CQRS and Event Sourcing](https://www.youtube.com/watch?v=b4u85GUKp0o) - Jakub Pilimon(jSession) - `[37:38]`
 * 🇬🇧 [Architecture antipatterns and how to beat them 1/2](https://www.youtube.com/watch?v=cJDDsSj2vJA) - Łukasz Szydło(4Developers 2017) - `[45:36]`
 * 🇬🇧 [Architecture antipatterns and how to beat them 2/2](https://www.youtube.com/watch?v=aq3Jwti9K14) - Łukasz Szydło(4Developers 2017) - `[45:36]`
-
-
-https://www.youtube.com/watch?v=2oJrjyp7GHE
+* 🇬🇧 [Modularity – the final frontier](https://www.youtube.com/watch?v=2oJrjyp7GHE) - Łukasz Szydło(4Developers 2017) - `[47:47]`
 
 #### Domain Driven Design
 
 * 🇬🇧 [Unbreakable Domain Models](https://www.youtube.com/watch?v=fgQWnglnGeU) - Mathias Verraes(PHP UK Conference 2014) - `[1:03:25]`
 * 🇬🇧 [Decoupling the Model from the Framework](https://www.youtube.com/watch?v=QaIGN_cTcc8) - Mathias Verraes(Laracon EU 2014) - `[53:35]`
-https://www.youtube.com/results?search_query=micha%C5%82+michaluk
-https://www.youtube.com/watch?v=CKONKZLmMwk
-https://www.youtube.com/watch?v=MzV2vGSTpo8
-https://www.youtube.com/watch?v=dlnu5pSsg7k
-https://www.youtube.com/watch?v=KkzvQSuYd5I
-https://www.youtube.com/watch?v=Ia8SQbQKLNQ
+* 🇬🇧 [All Our Aggregates Are Wrong](https://www.youtube.com/watch?v=KkzvQSuYd5I) - Mauro Servienti(Explore DDD) - `[50:13]`
 
 #### Hexagonal Architecture
 
 * 🇬🇧 [Hexagonal architecture](https://www.youtube.com/watch?v=fgQWnglnGeU) - Matthias Noback(SymfonyLive London 2015) - `[41:57]`
 * 🇬🇧 [Command and (e)mission Control](https://www.youtube.com/watch?v=K1EJBmwg9EQ) - Barney Hanlon(PHP UK Conference 2018) - `[41:01]` 
 * 🇬🇧 [Hexagonal Architecture](https://www.youtube.com/watch?v=6SBjKOwVq0o) - Chris Fidao(Laracon 2014) - `[38:46]` 
-https://www.youtube.com/watch?v=XAitTyOLtX4&t=383s
+
+* 🇬🇧 [Porty i adaptery](https://www.youtube.com/watch?v=XAitTyOLtX4) - Dominik Przybysz(Boiling Frogs 2018) - `[45:38]` 
 
 #### Event Sourcing
 
 * 🇬🇧 [Practical Event Sourcing](https://vimeo.com/104095245) - Mathias Verraes(phpDay 2014) - `[43:38]`
 
 * 🇵🇱 [Modelowanie złożonych procesów biznesowych i czasu z użyciem wzorca Sagi](https://www.youtube.com/watch?v=MXI8ET5DhOI) - Mariusz Gil(PHPers) - `[45:44]`
-https://www.youtube.com/watch?v=b4u85GUKp0o
 
 #### SOLID
 
@@ -109,7 +103,7 @@ https://www.youtube.com/watch?v=b4u85GUKp0o
 
 * 🇬🇧 [Design how your objects talk to each other through mocking](https://www.youtube.com/watch?v=AHizK2kpukk) - Konstantin Kudryashov(AFUP PHP) - `[47:06]` 
 
-https://www.youtube.com/watch?v=lhvDp0_2MI4
+* 🇬🇧 [Testowanie mutacyjne](https://www.youtube.com/watch?v=lhvDp0_2MI4) - Marcin Zajączkowski(Boiling Frogs 2016) - `[1:00:54]` 
 
 #### TDD
 #### BDD
@@ -137,10 +131,8 @@ https://www.youtube.com/watch?v=lhvDp0_2MI4
 * 🇫🇷 [Un monolithe microservices ready](https://www.youtube.com/watch?v=F8C_iPGhHoI) - Arnaud Lemaire(BreizhCamp) - `[50:36]` 
 * 🇬🇧 [Microservices Gone Wrong](https://www.youtube.com/watch?v=5QIpzNPVDaY) -  Anthony Ferrara(PHP UK Conference 2019) - `[1:00:55]` 
 * 🇬🇧 [Go micro with Microservices](https://www.youtube.com/watch?v=tewgo5zrHXA) -  Mariusz Gil(IPC Spring 2017) - `[42:31]` 
-
-https://www.youtube.com/watch?v=aE-p0cfwTVU
-
-https://www.youtube.com/watch?v=8sXoNonOc4Q
+* 🇬🇧 [Microservices & Distributed Monoliths](https://www.youtube.com/watch?v=aE-p0cfwTVU) -  David Boike(Explore DDD) - `[29:57]` 
+* 🇬🇧 [SLA i utrzymanie mikroserwisów](https://www.youtube.com/watch?v=8sXoNonOc4Q) -  Jakub Kubryński(Boiling Frogs 2017) - `[48:14]` 
 
 ## Docker and Kubernetes
 
